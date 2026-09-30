@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @imVincentTan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning front-end development with Angular.
 - 💞️ I’m looking to collaborate on anything. Surprise me!
 - 📫 How to reach me https://www.linkedin.com/in/vcktan/
